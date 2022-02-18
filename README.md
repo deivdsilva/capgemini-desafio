@@ -15,10 +15,10 @@ O algoritimo basicamente se resume em o usuario digita uma quantidade de desgrau
 
 Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma senha forte quando ela satisfaz os seguintes critérios:
 
-Algoritimo de validacâo de senhas, onde o usuario faz um casdatro em um site qualquer, e o algoritimo vai avaliar se sua senha esta dentro dos padroẽs de segurança permitidos
+Algoritimo de validacâo de senhas, onde o usuario faz um cadastro em um site qualquer, e o algoritimo vai avaliar se sua senha esta dentro dos padroẽs de segurança permitidos
 
 #Questao 3
 
 Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
 
-O usuario digita uma palavra qualquer e o algoritimo avalia se ele e anagrama ou não comprando as duas palavras.
+O usuario digita uma palavra qualquer e o algoritimo avalia se ele e anagrama ou não,comprando as duas palavras.saindo um resultado,verdadeiro ou falso
