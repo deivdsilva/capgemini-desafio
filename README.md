@@ -9,7 +9,7 @@ Utilizei a IDE Pycharm
 Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
 
 
-O algoritimo basicamente se resume em o usuario digita uma quantidade de desgraus que sua escada vai possuir e o algoritimo faz o caculo de acordo com o solicitadi.
+O algoritimo basicamente se resume em o usuario digita uma quantidade de desgraus que sua escada vai possuir e o algoritimo faz o caculo de acordo com o solicitadio.
 
 #Questao 2
 
