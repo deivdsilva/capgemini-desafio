@@ -21,4 +21,4 @@ Algoritimo de validacâo de senhas, onde o usuario faz um casdatro em um site qu
 
 Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
 
-O suario digita uma palavra qualquer e o algoritimo avalia se ele e anagrama ou não comprando as duas palavras.
+O usuario digita uma palavra qualquer e o algoritimo avalia se ele e anagrama ou não comprando as duas palavras.
